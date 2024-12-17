@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FleetManagemen\\FleetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\permit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\permit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\loginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\loginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\fuellog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\fuellog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\drivervehicleassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\drivervehicleassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|e:\\fleetmanagemen\\fleetmanagement\\fleetmanagement\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Permit.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\Permit.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\Permit.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\Permit.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\Permit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:27:47.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginLog.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\LoginLog.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\LoginLog.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\LoginLog.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\LoginLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:27:43.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\Invoice.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\Invoice.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:27:35.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuelLog.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\FuelLog.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\FuelLog.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\FuelLog.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\FuelLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:27:25.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDetail.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\CustomerDetail.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\CustomerDetail.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\CustomerDetail.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\CustomerDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:27:10.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriverVehicleAssignment.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\DriverVehicleAssignment.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\DriverVehicleAssignment.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\DriverVehicleAssignment.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\DriverVehicleAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:26:53.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:26:31.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\Driver.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\Driver.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:26:01.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Models\\Vehicle.cs",
+              "ToolTip": "E:\\FleetManagemen\\FleetManagement\\FleetManagement\\Models\\Vehicle.cs",
+              "RelativeToolTip": "FleetManagement\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:25:19.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
