@@ -3,19 +3,20 @@
     public class Trip
     {
         public Guid TripId { get; set; }
-        public Guid VehicleId { get; set; }
-        public Guid DriverId { get; set; }
-        public Guid? CustomerId { get; set; }
-        public string StartLocation { get; set; }
-        public string EndLocation { get; set; }
-        public DateTime StartTime { get; set; }
-        public DateTime EndTime { get; set; }
+        public Guid VehicleInfoId { get; set; }
+        public Guid DriverInfoId { get; set; }
+        public Guid? CustomerInfoId { get; set; }
+        public Guid FleetBranchId { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime TripDate { get; set; }
         public string TripStatus { get; set; }
-        public decimal? DistanceTravelled { get; set; }
 
         // Navigational Properties
-        public Vehicle Vehicle { get; set; }
-        public DriverDetails Driver { get; set; }
-        public CustomerDetail Customer { get; set; }
+        public VehicleInfo Vehicle { get; set; }
+        public DriverInfo Driver { get; set; }
+        public CustomerInfo Customer { get; set; }
+        public ICollection<TripLeg> TripLegs { get; set; }
+        public FleetBranch FleetBranch { get; set; }
+
     }
 }

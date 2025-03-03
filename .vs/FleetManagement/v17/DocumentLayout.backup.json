@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FleetManagemen\\FleetManagement\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Public\\FleetManagement\\FleetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|c:\\users\\public\\fleetmanagement\\fleetmanagement\\fleetmanagement\\data\\fleetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79467685-02AD-49D8-B6E6-1E8EF84AB9D6}|FleetManagement\\FleetManagement.csproj|solutionrelative:fleetmanagement\\data\\fleetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FleetDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\FleetManagement\\FleetManagement\\FleetManagement\\Data\\FleetDbContext.cs",
+              "RelativeDocumentMoniker": "FleetManagement\\Data\\FleetDbContext.cs",
+              "ToolTip": "C:\\Users\\Public\\FleetManagement\\FleetManagement\\FleetManagement\\Data\\FleetDbContext.cs",
+              "RelativeToolTip": "FleetManagement\\Data\\FleetDbContext.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwF0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:13:14.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

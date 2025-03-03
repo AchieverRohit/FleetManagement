@@ -7,6 +7,6 @@
         public string Description { get; set; }
 
         // Navigational Properties
-        public ICollection<Vehicle> Vehicles { get; set; }
+        public ICollection<VehicleInfo> Vehicles { get; set; }
     }
 }

@@ -20,6 +20,6 @@ namespace FleetManagement.Dtos.Auth
         [StringLength(10, MinimumLength = 10, ErrorMessage = "Enter 10 digit number")]
         public string MobileNo { get; set; }
 
-        public string? FleetAccountId { get; set; }
+        public Guid? FleetAccountId { get; set; }
     }
 }

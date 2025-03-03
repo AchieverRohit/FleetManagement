@@ -11,7 +11,7 @@
         public string DocumentPath { get; set; } // Path to the permit file
 
         // Navigational Properties
-        public Vehicle Vehicle { get; set; }
+        public VehicleInfo Vehicle { get; set; }
         //public ICollection<Document> Documents { get; set; }
     }
 }

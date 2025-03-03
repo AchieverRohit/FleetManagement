@@ -50,7 +50,7 @@ namespace FleetManagement.Controllers
                     PhoneNumber = registerDto.MobileNo,
                     UserName = registerDto.Email,
                     Email = registerDto.Email,
-                    FleetAccountId=registerDto.FleetAccountId
+                    FleetAccountId=Guid.Parse(registerDto.FleetAccountId)
                 };
 
                 // Create user
